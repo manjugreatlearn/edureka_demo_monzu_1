@@ -1,2 +1,4 @@
 this is a sample code
 This is  a new line of code in the dev branch
+This is a dummy text 
+This is just for test purpose
